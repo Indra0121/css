@@ -13,14 +13,11 @@ nav{
     
     
     background-image: url("Blueprint-Marketing-Plan.jpg");
-    
     height: 100px;
     
 }
-.nav{
-    display: inline; /*even if it doesnt change anything but had to do something about this :
-    "Change the display of navbar to make it inline."
-    */
+.form{
+    color:white;
 }
 a,a:visited{
     font-size: 30px;
